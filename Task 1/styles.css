@@ -1,0 +1,36 @@
+#cg-logo {
+    width: 200px;
+    /* border: 1px solid red; */
+    object-fit: cover;
+}
+
+#ci-logo {
+    width: 200px;
+    /* border: 1px solid red; */
+}
+
+ul {
+    font-size: 20px;
+}
+
+li {
+    list-style-type: square;
+    color: #ee1111;
+}
+
+.button-type {
+    background-color: #011101;
+    color: white;
+    font-size: 24px;
+    width: 300px;
+    padding: 0px;
+}
+
+.button-type p {
+    padding: 15px 20px 20px 25px;
+}
+
+
+.compromise {
+    font-size: 22px;
+}
